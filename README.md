@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Prashanth Vamanan Srinivasan, a former senior software engineer at Vassar Labs, Hyderabad, India.
-- 📕 I'm currently pursuing my graduate studies in Computer Science at the University of Colorado, Boulder.
+- 👋 Hi, I’m Prashanth Vamanan Srinivasan, currently a graduate student at the University of Colorado Boulder.
+- 📕 I'm pursuing CS with a focus on distributed systems and computer networks.
+- 🧑‍💼 I worked as a senior software engineer at Vassar Labs, Hyderabad, India architecting and delivering last-mile visibility solutions for the Andhra Pradesh state government across various departments including education and social welfare.
 - 👀 I’m interested in full stack web development and game development.
 - 🌐 I enjoy building performant software applications and my research interests lie around distributed systems and computer networks.
 - 🌱 I’m proficient in HTML, CSS, JavaScript, Angular, Node.js, ExpressJS and Spring Boot.
